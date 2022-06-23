@@ -1,0 +1,209 @@
+#MainLogo{
+    color: #352;
+}
+
+.car{
+    padding-top:  0px;
+}
+
+.navbar{
+    padding-bottom: 2%;
+    background-color: beige;
+    /* position: sticky; */
+}
+
+
+hr{
+    margin: 0;
+}
+
+.nav-item{
+    padding: 0 3% 0;
+}
+
+/* .nav-link{
+    font-family:  ;
+} */
+
+.navbar-brand{
+    /* font-style: italic; */
+    font-weight:lighter;
+    font-size:200%;
+    font-family: Garamond;
+    padding-right: 2%;
+    /* font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+}
+.footer{
+    background-color:rgb(238, 193, 135);
+    position: relative;
+    width:100%;
+    /* display: inline-block; */
+
+}
+
+.fheading{
+    margin-left: 5%;
+    color:black ;
+    margin-top: 5%;
+}
+
+.log-form{
+    
+    width: 30%;
+    position: absolute;
+    left: 60%;
+    top: 20%;
+    
+    
+  
+}
+
+
+.pizza-vector{
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 28%;
+    opacity: 0;
+    display: inline;
+}
+
+.signUpBody{
+    position: default;
+    /* display: inline-block; */
+}
+
+#signInText{
+    position: absolute;
+    top: 5%;
+    right: 32%;
+}
+
+.sign-legend{
+    font-weight: bolder;
+    opacity: .3;
+    /* padding-bottom: ; */
+    
+}
+
+.footer-link{
+    display: block;
+    font-weight: lighter;
+    text-decoration: none;
+    color: black;
+}
+
+.footer-container{
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+.store-logo{
+    width: 5%;    
+    margin-right: 30px;
+    padding-bottom: 10px;
+}
+
+.footer-text{
+    padding-bottom: 30px;
+}
+
+.store{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.footer-item{
+    text-align: center;
+}
+
+.feedback-button{
+    width: 80%;
+}
+
+.social-list{
+    display: inline-flex;
+}
+
+.social{
+    /* margin: 0 10px; */
+    width: 50%;
+}
+
+.social-logo{
+    width: 25%;
+}
+.fssai{
+    text-align: center;
+}
+
+.fssai-logo{
+    width: 10%;
+    
+}
+
+ul{
+    list-style-type: none;
+}
+.footer-description{
+    text-align: center;
+}
+
+.footer-description-text{
+    font-size: 70%;
+}
+
+
+.footer-link:hover{
+    color: white;
+}
+
+.new-user{
+    position: absolute;
+    right: 5px;
+}
+
+.order-body{
+    position: relative;
+    
+}
+
+.menu-heading{
+    text-align: center;
+    font-family: Garamond ;
+    font-size: 20px;
+    opacity: .2;
+    margin-bottom: 70px;
+    margin-top: 25px;
+    text-shadow:black;
+    /* text-decoration:underline; */
+    /* text-decoration: #352; */
+}
+
+.card{
+    margin: 12px;
+    margin-left: 55px;
+}
+
+.row{
+    padding-bottom: 10px;
+}
+
+.stylish-rule{
+    width: 30%;
+    position: relative;
+    left: 35%;
+    color: rgb(189, 128, 49);
+    
+}
+
+
+.menu{
+    opacity: .2;
+}
+
+
+.card-title{
+    font-family: 'MOFAZE DEL MONTE', sans-serif;
+    font-weight: 800;
+                                                
+}
